@@ -219,10 +219,10 @@ h2 {
 	color: #fff;
 }
 .gla_great_titles h2 {
-	font:900 80px marsha, Arial;
+	font:900 80px beloved-script, Arial;
 }
 .gla_middle_titles h2 {
-	font:400 70px/80px marsha, Dosis;
+	font:400 70px/80px beloved-script, Dosis;
 	margin-bottom: 60px;
 }
 
@@ -231,7 +231,7 @@ h2 {
 	transform:translateX(-50%);
 }
 .gla_middle_titles h2 span {
-	font:normal 400 41px/41px marsha, Arial;
+	font:normal 400 41px/41px beloved-script, Arial;
 	letter-spacing: 0;
 }
 .gla_thin_titles h2 {
@@ -2438,7 +2438,7 @@ ul.mega-menu {
 		}
 		.gla_slide_title,
 		h2.gla_slide_title {
-			font:400 130px/117px marsha, Arial;
+			font:400 130px/117px beloved-script, Arial;
 			margin-bottom: 30px;
 		}
 		.gla_slide_title {
@@ -2448,20 +2448,20 @@ ul.mega-menu {
 			margin-bottom: 20px;
 		}
 			.gla_slide_midtitle {
-				font:900 80px/80px marsha, Arial;
-				margin-bottom: 30px;
+				font:900 80px/80px beloved-script, Arial;
+				margin-bottom: 30px; font-weight: 700;
 			}
 			.gla_slide_title b {
 				font-weight: normal!important;
 			}
 			.gla_slide_title span {
-				font:italic 400 80px/80px marsha, Arial!important;
+				font:italic 400 80px/80px beloved-script, Arial!important;
 			}
 			.gla_slide_midtitle span {
-				font:italic 400 50px/50px marsha, Arial!important;
+				font:italic 400 50px/50px beloved-script, Arial!important;
 			}
 			.gla_slide_subtitle span {
-				font:italic 400 20px/20px marsha, Arial!important;
+				font:italic 400 20px/20px beloved-script, Arial!important;
 			}
 		.gla_slide_title_great {
 			font:900 86px Dosis, Arial;
