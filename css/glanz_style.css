@@ -121,7 +121,7 @@ html {
 	left: 0;
 }
 .gla_large_text {
-	font: 400 18px/30px Dosis, Arial;
+	font: 400 18px/30px beloved-script, Arial;
 }
 .gla_over {
 	width: 100%;
@@ -204,13 +204,13 @@ html {
 
 /*01.2 Titles*/
 h1.gla_h1_title {
-	font:900 44px Dosis, Arial;
+	font:900 44px beloved-script, Arial;
 	text-transform: uppercase;
 	line-height: 1.125;
 	margin-top: 0;
 }
 h2 {
-	font:400 24px Dosis, Arial;
+	font:400 24px beloved-script, Arial;
 	line-height: 1.125;
 	margin-top: 0;
 	color: #333;
@@ -222,7 +222,7 @@ h2 {
 	font:900 80px beloved-script, Arial;
 }
 .gla_middle_titles h2 {
-	font:400 70px/80px beloved-script, Dosis;
+	font:400 70px/80px beloved-script, Marsha;
 	margin-bottom: 60px;
 }
 
@@ -235,7 +235,7 @@ h2 {
 	letter-spacing: 0;
 }
 .gla_thin_titles h2 {
-	font:300 44px Dosis, Arial;
+	font:300 44px beloved-script, Arial;
 	text-transform: uppercase;
 }
 .gla_sml_abs_title {
@@ -244,7 +244,7 @@ h2 {
 	background: #e5e5e5;
 	color: #333;
 	padding: 10px 20px;
-	font:400 20px/20px Dosis, Arial;
+	font:400 20px/20px beloved-script, Arial;
 	-webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
 	box-shadow: 0 0 20px rgba(0,0,0,.3);
 	transform:rotate(90deg);
@@ -1330,7 +1330,7 @@ header {
 	position: relative;
 	right: 0;
 	top: 0;
-	font: 400 18px/18px Dosis;
+	font: 400 18px/18px beloved-script;
 	float: right;
 }
 	.gla_default_menu ul {
@@ -1655,7 +1655,7 @@ ul.mega-menu {
 		font-size: 16px;
 		font-weight: normal;
 		right: 0;
-		font-family: Dosis;
+		font-family: beloved-script;
 	}
 	.gla_main_menu_icon b span {
 		-webkit-transition: all 0.5s;
@@ -1767,7 +1767,7 @@ ul.mega-menu {
 			} 
 
 		.gla_main_menu_content_menu a {
-			font:400 30px/38px Dosis, Arial;
+			font:400 30px/38px beloved-script, Arial;
 			display: block;
 			text-decoration: none;
 		}
@@ -1778,7 +1778,7 @@ ul.mega-menu {
 		}
 	
 		.gla_logo {
-			font:900 24px/18px Dosis, Arial;
+			font:900 24px/18px beloved-script, Arial;
 			color:#333;
 			text-transform: uppercase;
 			position: relative;
@@ -1817,7 +1817,7 @@ ul.mega-menu {
 			}
 		.gla_logo b {
 			display: block;
-			font:500 12px/18px Dosis, Arial;
+			font:500 12px/18px beloved-script, Arial;
 			position: relative;
 			-webkit-transition: all 0.2s;
 			-o-transition: all 0.2s;
@@ -2464,11 +2464,11 @@ ul.mega-menu {
 				font:italic 400 20px/20px beloved-script, Arial!important;
 			}
 		.gla_slide_title_great {
-			font:900 86px Dosis, Arial;
+			font:900 86px beloved-script, Arial;
 			line-height: 1.0625;
 		}
 		.gla_slide_title_middle {
-			font:900 56px Dosis, Arial;
+			font:900 56px beloved-script, Arial;
 			line-height: 1.0625;
 			text-transform: uppercase;
 			margin-bottom: 25px;
@@ -2478,7 +2478,7 @@ ul.mega-menu {
 
 		
 		.gla_slide_subtitle {
-			font:400 20px Dosis, Arial;
+			font:400 20px beloved-script, Arial;
 			text-transform: none;
 			line-height: 1.125;
 			margin-bottom: 20px;
@@ -2486,12 +2486,12 @@ ul.mega-menu {
 		}
 
 		.gla_slide_desq {
-			font:400 24px Dosis, Arial;
+			font:400 24px beloved-script, Arial;
 			line-height: 1.35417;
 			margin: 30px 0;
 		}
 		.gla_slide_desq_great {
-			font:500 24px Dosis, Arial;
+			font:500 24px beloved-script, Arial;
 			text-transform: uppercase;
 		}
 			.gla_slide_title_great:after {
@@ -2971,7 +2971,7 @@ ul.mega-menu {
 /*Badges*/
 .gla_badge_i_line1 {
 	position: absolute;
-	font: 400 80px/80px marsha, Dosis, Arial;
+	font: 400 80px/80px marsha, beloved-script, Arial;
 	color: #000;
 	width: 100%;
 	text-align: center;
@@ -2979,7 +2979,7 @@ ul.mega-menu {
 }
 .gla_badge_i_line2 {
 	position: absolute;
-	font: 400 80px/80px marsha, Dosis, Arial;
+	font: 400 80px/80px marsha, beloved-script, Arial;
 	color: #000;
 	width: 100%;
 	text-align: center;
@@ -3389,7 +3389,7 @@ video#video_background  {
 		font: italic 400 24px/24px Playfair Display, Arial;
 	}
 	.gla_menu_item span {
-		font: 700 30px/30px Dosis, Arial;
+		font: 700 30px/30px beloved-script, Arial;
 	}
 .gla_menu_item p {
 	margin-bottom: 0;
