@@ -3482,6 +3482,16 @@ video#video_background  {
 	position: relative;
 	z-index: 1;
 }
+
+.gla_round_small_im {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 0 auto 20px;
+	border-radius: 50%;
+	position: relative;
+	z-index: 1;
+}
 	.gla_round_im2:hover:after {
 		opacity: 1;
 		transform:rotate(0deg);
