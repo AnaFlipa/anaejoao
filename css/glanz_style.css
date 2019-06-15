@@ -223,7 +223,7 @@ h2 {
 }
 .gla_middle_titles h2 {
 	font:400 70px/80px beloved-script, Marsha;
-	margin-bottom: 60px;
+	margin-bottom: 0px;
 }
 
 .text-center .gla_middle_titles h2:after  {
@@ -4271,7 +4271,7 @@ video#video_background  {
     left: 50%;
 	}
 .owl-buttons {
-	position: absolute;
+	/*position: absolute;*/
 	width: 100%;
 	bottom: 0;
 	height: 35px;
