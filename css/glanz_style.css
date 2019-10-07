@@ -3771,12 +3771,12 @@ video#video_background  {
 			}
 		.gla_bottom_title h3 {
 			position: relative;
-			font: 700 24px Dosis, Arial;
+			font: 700 24px  Dosis, Arial;
 			margin-bottom: 0;
 		}
 		.gla_bottom_title h2 {
 			position: relative;
-			font: 700 34px Dosis, Arial;
+			font: 700 34px  Dosis, Arial;
 			margin-bottom: 30px;
 		}
 			.gla_bottom_title h2:after {
@@ -5972,7 +5972,7 @@ header nav.gla_transp_nav {
 }
 
 .gla_middle_titles h2 {
-	font:900 30px/30px Dosis, Arial;
+	font:900 30px/30px "Playfair Display", Dosis, Arial;
 	margin-bottom: 50px;
 }
 .gla_icon_boxes {
