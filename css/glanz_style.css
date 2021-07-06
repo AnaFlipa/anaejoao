@@ -3826,7 +3826,7 @@ video#video_background  {
 
 /*06.1 Icon Boxes*/
 .grid-item a {
-	cursor: url(../images/cursor.png),auto;
+	/*cursor: url(../images/cursor.png),auto;*/
 }
 .gla_demos a {
 	cursor: pointer;
